@@ -11,4 +11,6 @@ A JavaScript web application that calculates simple and compound interest.
  🛠️ Technologies Used
 - HTML5, CSS3, JavaScript
 -
+ 🌐 Live Demo
+https://thedigitalphoenix.github.io/Interest-calculator/
 - <img width="350" height="441" alt="Screenshot 2025-11-20 at 23-59-20 INTEREST CALCULATOR" src="https://github.com/user-attachments/assets/6249d29f-2dcf-46b2-890b-b1481adc068f" />
